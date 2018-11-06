@@ -2,8 +2,8 @@ package controller
 
 import (
 	"fmt"
-	"goPo/model"
-	"goPo/services"
+	"go-mongo-rest/model"
+	"go-mongo-rest/services"
 	"reflect"
 
 	"gopkg.in/mgo.v2/bson"

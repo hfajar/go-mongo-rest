@@ -3,8 +3,8 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	controller "goPo/controller"
-	model "goPo/model"
+	controller "go-mongo-rest/controller"
+	model "go-mongo-rest/model"
 	"log"
 	"net/http"
 
